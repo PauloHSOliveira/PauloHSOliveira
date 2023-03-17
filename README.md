@@ -1,5 +1,3 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=PauloHSOliveira&theme=react)](https://git.io/streak-stats)
-
 <!--
 **PauloHSOliveira/PauloHSOliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
