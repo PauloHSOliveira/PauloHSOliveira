@@ -27,11 +27,12 @@ Here are some of the technologies and languages I work with:
 ![Shopify](https://img.shields.io/badge/-Shopify-7AB55C?style=flat&logo=shopify)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress)
 
-## Contributions
+## Statistics and Contributions
 
-Here's an overview of my combined GitHub contributions:
+Here's an overview of my GitHub statistics and contributions:
 
-![Gitstalk Profile](https://gitstalk.netlify.app/PauloHSOliveira)
+![GitStats Summary](https://gitstats.me/PauloHSOliveira)
+![GitStats Contributions](https://gitstats.me/PauloHSOliveira?all=1)
 
 ## Key Repositories
 
