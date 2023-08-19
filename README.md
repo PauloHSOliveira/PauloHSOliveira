@@ -26,6 +26,7 @@ Here are some of the technologies and languages I work with:
 ![Algolia](https://img.shields.io/badge/-Algolia-5468FF?style=flat&logo=algolia)
 ![Shopify](https://img.shields.io/badge/-Shopify-7AB55C?style=flat&logo=shopify)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress)
+![Blockchain](https://img.shields.io/badge/-Blockchain-121D33?style=flat&logo=blockchain)
 
 ## Statistics and Contributions
 
