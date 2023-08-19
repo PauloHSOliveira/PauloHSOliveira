@@ -29,7 +29,13 @@ Here are some of the technologies and languages I work with:
 
 ## Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PauloHSOliveira&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PauloHSOliveira&show_icons=true&theme=dark&count_private=true)
+
+## Contributions
+
+Here's an overview of my combined GitHub contributions:
+
+![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=PauloHSOliveira&theme=dark&include_all_commits=true)
 
 ## Key Repositories
 
