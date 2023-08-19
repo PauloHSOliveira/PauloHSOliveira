@@ -31,7 +31,7 @@ Here are some of the technologies and languages I work with:
 
 Here's an overview of my combined GitHub contributions:
 
-![Waka Readme](https://github.com/PauloHSOliveira/PauloHSOliveira/actions/workflows/update-stats.yml/badge.svg)
+![Gitstalk Profile](https://gitstalk.netlify.app/PauloHSOliveira)
 
 ## Key Repositories
 
