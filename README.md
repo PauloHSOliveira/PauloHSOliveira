@@ -29,7 +29,7 @@ Here are some of the technologies and languages I work with:
 
 ## Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PauloHSOliveira&show_icons=true&theme=dark&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PauloHSOliveira&show_icons=true&theme=dark&include_all_commits=true)
 
 ## Contributions
 
