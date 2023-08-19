@@ -27,15 +27,11 @@ Here are some of the technologies and languages I work with:
 ![Shopify](https://img.shields.io/badge/-Shopify-7AB55C?style=flat&logo=shopify)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress)
 
-## Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PauloHSOliveira&show_icons=true&theme=dark&include_all_commits=true)
-
 ## Contributions
 
 Here's an overview of my combined GitHub contributions:
 
-![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=PauloHSOliveira&theme=dark&include_all_commits=true)
+![Waka Readme](https://github.com/PauloHSOliveira/PauloHSOliveira/actions/workflows/update-stats.yml/badge.svg)
 
 ## Key Repositories
 
@@ -43,7 +39,7 @@ Here are some of my most active and interesting repositories:
 
 1. [ScaleCraft-Network](https://github.com/PauloHSOliveira/ScaleCraft-Network) - ScaleCraft Network: Building a scalable and innovative blockchain ecosystem while learning Rust along the way.
 2. [clicksign-library](https://github.com/PauloHSOliveira/clicksign-library) - This is a Node.js library to facilitate contract sending using the ClickSign REST API. The library is written in TypeScript and uses functional programming to provide an easy-to-use and scalable interface.
-3. [My Porfofolio](https://github.com/PauloHSOliveira/new-portfolio) - Brief description of the project.
+3. [My Portfolio](https://github.com/PauloHSOliveira/new-portfolio) - Brief description of the project.
 
 ## Contributions
 
