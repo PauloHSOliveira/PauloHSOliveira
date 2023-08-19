@@ -31,8 +31,8 @@ Here are some of the technologies and languages I work with:
 
 Here's an overview of my GitHub statistics and contributions:
 
-![GitStats Summary](https://gitstats.me/PauloHSOliveira)
-![GitStats Contributions](https://gitstats.me/PauloHSOliveira?all=1)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PauloHSOliveira&show_icons=true&theme=dark&include_all_commits=true)
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=PauloHSOliveira&theme=dark&include_all_commits=true)
 
 ## Key Repositories
 
