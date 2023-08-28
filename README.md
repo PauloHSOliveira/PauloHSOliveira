@@ -1,5 +1,11 @@
 # Welcome to My GitHub! 🚀
 
+📬 Contact Me: &nbsp;
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=email&logoColor=white)](mailto:contato@pholiveira.dev)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-oliveira-ph/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/pholiveiradev)
+[![Website](https://img.shields.io/badge/-Website-555555?style=flat&logo=web&logoColor=white)](https://pholiveira.dev)
+
 ## About Me
 
 Hello there! I'm Paulo Oliveira, a senior software engineer passionate about crafting innovative and scalable solutions. My professional journey revolves around web and mobile development, using an array of technologies to build incredible user experiences.
@@ -28,13 +34,6 @@ Here are some of the technologies and languages I work with:
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress)
 ![Blockchain](https://img.shields.io/badge/-Blockchain-121D33?style=flat&logo=blockchain)
 
-## Statistics and Contributions
-
-Here's an overview of my GitHub statistics and contributions:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PauloHSOliveira&show_icons=true&theme=dark&include_all_commits=true)
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=PauloHSOliveira&theme=dark&include_all_commits=true)
-
 ## Key Repositories
 
 Here are some of my most active and interesting repositories:
@@ -43,17 +42,11 @@ Here are some of my most active and interesting repositories:
 2. [clicksign-library](https://github.com/PauloHSOliveira/clicksign-library) - This is a Node.js library to facilitate contract sending using the ClickSign REST API. The library is written in TypeScript and uses functional programming to provide an easy-to-use and scalable interface.
 3. [My Portfolio](https://github.com/PauloHSOliveira/new-portfolio) - Brief description of the project.
 
-## Contributions
+## Statistics and Contributions
 
-I contribute to the open-source community and am always seeking ways to learn and share knowledge. If you're interested in collaborating or have any questions about my projects, feel free to get in touch!
+Here's an overview of my GitHub statistics and contributions:
 
-## Contact
-
-You can find me on the following platforms:
-
-- [Email](mailto:contato@pholiveira.dev)
-- [LinkedIn](https://www.linkedin.com/in/paulo-oliveira-ph/)
-- [Twitter](https://twitter.com/pholiveiradev)
-- [Website](https://pholiveira.dev)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PauloHSOliveira&show_icons=true&theme=dark&include_all_commits=true)
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=PauloHSOliveira&theme=dark&include_all_commits=true)
 
 Thank you for visiting my profile! Let's create amazing things together! 👨‍💻🌟
