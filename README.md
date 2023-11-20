@@ -47,6 +47,6 @@ Here are some of my most active and interesting repositories:
 Here's an overview of my GitHub statistics and contributions:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PauloHSOliveira&show_icons=true&theme=dark&include_all_commits=true)
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=PauloHSOliveira&theme=dark&include_all_commits=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=PauloHSOliveira&theme=dark)](https://git.io/streak-stats)
 
 Thank you for visiting my profile! Let's create amazing things together! 👨‍💻🌟
