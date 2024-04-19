@@ -36,7 +36,7 @@ Here are some of the technologies and languages I work with:
 
 ## Studying
 
-Currently, I'm delving into the following stuff:
+Currently, I'm studying the following stuff:
 
 - ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go): Programming language I'm exploring for developing efficient and robust systems.
 - ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs): Node.js framework I'm learning for building scalable and modularized APIs.
