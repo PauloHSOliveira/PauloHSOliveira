@@ -34,6 +34,14 @@ Here are some of the technologies and languages I work with:
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress)
 ![Blockchain](https://img.shields.io/badge/-Blockchain-121D33?style=flat&logo=blockchain)
 
+## Studying
+
+Currently, I'm delving into the following stuff:
+
+- ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go): Programming language I'm exploring for developing efficient and robust systems.
+- ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs): Node.js framework I'm learning for building scalable and modularized APIs.
+- ![Ethical Hacking](https://img.shields.io/badge/-Ethical%20Hacking-8A2BE2?style=flat): Area I'm studying to better understand system and network vulnerabilities, aiming to improve information security.
+
 ## Key Repositories
 
 Here are some of my most active and interesting repositories:
