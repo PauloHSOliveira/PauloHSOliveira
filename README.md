@@ -52,10 +52,6 @@ Here are some of my most active and interesting repositories:
 
 ## Statistics and Contributions
 
-Here's an overview of my GitHub statistics and contributions:
-x
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloHSOliveira)](https://github.com/anuraghazra/github-readme-stats)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=PauloHSOliveira&theme=dark)](https://git.io/streak-stats)
 
 Thank you for visiting my profile! Let's create amazing things together! 👨‍💻🌟
