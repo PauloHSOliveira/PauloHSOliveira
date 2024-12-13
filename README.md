@@ -52,6 +52,6 @@ Here are some of my most active and interesting repositories:
 
 ## Statistics and Contributions
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=PauloHSOliveira&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=PauloHSOliveira&theme=javascript-dark&hide_border=true)](https://git.io/streak-stats)
 
 Thank you for visiting my profile! Let's create amazing things together! 👨‍💻🌟
