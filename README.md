@@ -50,8 +50,4 @@ Here are some of my most active and interesting repositories:
 2. [clicksign-library](https://github.com/PauloHSOliveira/clicksign-library) - This is a Node.js library to facilitate contract sending using the ClickSign REST API. The library is written in TypeScript and uses functional programming to provide an easy-to-use and scalable interface.
 3. [My Portfolio](https://github.com/PauloHSOliveira/new-portfolio) - Brief description of the project.
 
-## Statistics and Contributions
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=PauloHSOliveira&theme=javascript-dark&hide_border=true)](https://git.io/streak-stats)
-
 Thank you for visiting my profile! Let's create amazing things together! 👨‍💻🌟
