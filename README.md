@@ -10,6 +10,8 @@
 
 Hello there! I'm Paulo Oliveira, a senior software engineer passionate about crafting innovative and scalable solutions. My professional journey revolves around web and mobile development, using an array of technologies to build incredible user experiences.
 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/PauloHSOliveira?cardType=octocat&theme=ocean-dark&preferLogin=true)](https://git.io/awesome-stats-card)
+
 ## Technologies and Languages
 
 Here are some of the technologies and languages I work with:
