@@ -10,8 +10,6 @@
 
 Hello there! I'm Paulo Oliveira, a senior software engineer passionate about crafting innovative and scalable solutions. My professional journey revolves around web and mobile development, using an array of technologies to build incredible user experiences.
 
-![PauloHSOliveira's Streak](https://github-readme-streak-stats.herokuapp.com/?user=PauloHSOliveira&theme=vue-dark&hide_border=true)
-
 ## Technologies and Languages
 
 Here are some of the technologies and languages I work with:
