@@ -1,0 +1,48 @@
+name: Update Profile Stats
+
+on:
+  schedule:
+    - cron: "0 8 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-profile:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Install dependencies
+        run: |
+          if [ -f package.json ]; then
+            npm ci
+          else
+            echo "No package.json found, skipping install"
+          fi
+
+      - name: Generate profile stats
+        run: |
+          if [ -f scripts/generate-github-stats.ts ]; then
+            npx tsx scripts/generate-github-stats.ts
+          else
+            echo "Stats script not found, skipping generation"
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.PROFILE_STATS_TOKEN }}
+
+      - name: Commit generated assets
+        run: |
+          git config user.name "profile-stats-bot"
+          git config user.email "actions@github.com"
+          git add assets/ || true
+          git diff --cached --quiet || git commit -m "chore: update profile stats [skip ci]"
+          git push || true
