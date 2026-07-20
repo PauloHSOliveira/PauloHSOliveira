@@ -44,12 +44,12 @@ I care about architecture quality, developer experience, and delivering software
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PauloHSOliveira&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/PauloHSOliveira)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=PauloHSOliveira&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/PauloHSOliveira)
 [![GitHub Streak](https://streak-stats.demolab.com?user=PauloHSOliveira&theme=github-dark&hide_border=true)](https://github.com/PauloHSOliveira)
 
 <br />
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloHSOliveira&theme=github_dark&hide_border=true&layout=compact&langs_count=6)](https://github.com/PauloHSOliveira)
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=PauloHSOliveira&theme=github_dark&hide_border=true&layout=compact&langs_count=6)](https://github.com/PauloHSOliveira)
 
 </div>
 
