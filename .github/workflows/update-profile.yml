@@ -23,26 +23,17 @@ jobs:
 
       - name: Install dependencies
         run: |
-          if [ -f package.json ]; then
-            npm ci
-          else
-            echo "No package.json found, skipping install"
-          fi
+          if [ -f package.json ]; then npm ci; fi
 
       - name: Generate profile stats
-        run: |
-          if [ -f scripts/generate-github-stats.ts ]; then
-            npx tsx scripts/generate-github-stats.ts
-          else
-            echo "Stats script not found, skipping generation"
-          fi
+        run: npx tsx scripts/generate-github-stats.ts
         env:
-          GITHUB_TOKEN: ${{ secrets.PROFILE_STATS_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
 
       - name: Commit generated assets
         run: |
           git config user.name "profile-stats-bot"
-          git config user.email "actions@github.com"
-          git add assets/ || true
-          git diff --cached --quiet || git commit -m "chore: update profile stats [skip ci]"
-          git push || true
+          git config user.email "profile-stats-bot@users.noreply.github.com"
+          git add assets/
+          git diff --cached --quiet || git commit -m "chore: update github impact stats [skip ci]"
+          git push
