@@ -49,8 +49,7 @@ I care about architecture quality, developer experience, and delivering software
 
 <br />
 
-<img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repositories per language" width="49%" />
-<img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most used commit languages" width="49%" />
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloHSOliveira&theme=github_dark&hide_border=true&layout=compact&langs_count=6)](https://github.com/PauloHSOliveira)
 
 </div>
 
