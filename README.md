@@ -44,12 +44,13 @@ I care about architecture quality, developer experience, and delivering software
 
 <div align="center">
 
+![GitHub Stats Card](https://ghstats.dev/api/card?username=PauloHSOliveira&hide=commits%2Cprs%2Cissues%2Chours)
+
 [![GitHub Contributions](https://ghchart.rshah.org/PauloHSOliveira)](https://github.com/PauloHSOliveira)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=PauloHSOliveira&theme=github-dark&hide_border=true)](https://github.com/PauloHSOliveira)
 
-<br />
-
-[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=PauloHSOliveira&theme=github_dark&hide_border=true&layout=compact&langs_count=6)](https://github.com/PauloHSOliveira)
+![Top Languages](https://ghstats.dev/api/langs?username=PauloHSOliveira&layout=grid)
 
 </div>
 
