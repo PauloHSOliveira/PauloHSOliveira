@@ -4,7 +4,9 @@
 
 **Senior Software Engineer**
 
-Product engineering · Scalable web platforms · Frontend architecture · Backend APIs
+Cybersecurity Student at **FIAP**
+
+Product engineering · Scalable web platforms · Frontend architecture · Backend APIs · Ethical hacking · Digital forensics · DevSecOps
 
 <br />
 
