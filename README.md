@@ -97,7 +97,7 @@ I care about architecture quality, developer experience, and delivering software
 
 - Building scalable product infrastructure at **Popstand**
 - Refactoring legacy systems for performance and maintainability
-- Exploring AI-assisted development workflows
+- Exploring AI agents for cybersecurity automation and threat analysis
 
 ---
 
