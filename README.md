@@ -23,6 +23,8 @@ Senior Software Engineer at **Popstand** with 5+ years building production softw
 
 I focus on translating product requirements into maintainable, production-ready systems. My work spans the full development lifecycle: frontend architecture, backend API design, code reviews, refactoring, debugging, and release verification.
 
+I’m currently pursuing a degree in **Cybersecurity at FIAP**, focused on **Ethical Hacking, Digital Forensics, and DevSecOps**.
+
 I care about architecture quality, developer experience, and delivering software that scales with the product.
 
 ---
