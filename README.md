@@ -10,7 +10,7 @@ Product engineering · Scalable web platforms · Frontend architecture · Backen
 
 <br />
 
-[![Email](https://img.shields.io/badge/Email-contato%40pholiveira.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@pholiveira.dev)
+[![Email](https://img.shields.io/badge/Email-x0pshadow%40pm.me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:x0pshadow@pm.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Paulo%20Oliveira-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-oliveira-ph/)
 [![Website](https://img.shields.io/badge/Website-pholiveira.dev-222222?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pholiveira.dev)
 [![Twitter](https://img.shields.io/badge/Twitter-@pholiveiradev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pholiveiradev)
