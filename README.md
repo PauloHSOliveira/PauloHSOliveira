@@ -2,7 +2,7 @@
 
 # Paulo Oliveira
 
-**Senior Software Engineer**
+**Senior Software Engineer && Ethical Hacker**
 
 Cybersecurity Student at **FIAP**
 
